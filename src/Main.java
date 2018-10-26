@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Hello World!");
 
         System.out.println("Git Branch Test1");
+
+        System.out.println("Git Branch Test2");
     }
 }
